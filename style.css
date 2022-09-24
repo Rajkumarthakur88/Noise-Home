@@ -621,6 +621,7 @@ flex-wrap: wrap;
      font-size: 14px;
 }
 
+/* ABOUT */
 .about-section h1 {
      font-size: 28px;
      margin-bottom: 50px;
@@ -631,11 +632,11 @@ flex-wrap: wrap;
      width: 80%;
 }
 .about-image img {
-     width: 45px;
+     width: 46px;
 }
 
 .about-image h2 {
-     font-size: 18px;
+     font-size: 20px;
 }
 
 /* FOOTER */
