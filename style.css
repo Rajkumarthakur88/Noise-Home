@@ -394,15 +394,11 @@ button {
 }
 
 .about-image img {
-     width: 50px;
+     width: 75px;
 }
 
 .about-image h2 {
-     color: #383838;
-     font-size: 20px;
-     font-weight: 400;
-     text-align: center;
-     margin-bottom: 25px;
+     font-size: 21px;
 }
 
 /* FOOTER */
